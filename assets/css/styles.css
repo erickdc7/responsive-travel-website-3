@@ -262,6 +262,12 @@ img {
   object-position: center;
 }
 
+.home__blur {
+  background-color: var(--opacity-color-20);
+  backdrop-filter: blur(40px);
+  transition: background-color 0.4s;
+}
+
 /* Swiper class */
 
 /*=============== BUTTON ===============*/
