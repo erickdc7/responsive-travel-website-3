@@ -244,6 +244,9 @@ img {
 /* Active link */
 
 /*=============== HOME ===============*/
+.home {
+  position: relative;
+}
 
 /* Swiper class */
 
