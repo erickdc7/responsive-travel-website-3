@@ -227,6 +227,13 @@ img {
   width: 60%;
 }
 
+.nav__close {
+  color: var(--title-color);
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
 /* Show menu */
 
 /* Change background header */
