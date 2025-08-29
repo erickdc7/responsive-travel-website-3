@@ -274,6 +274,11 @@ img {
   row-gap: 3rem;
 }
 
+.home__data {
+  text-align: center;
+  color: var(--white-color);
+}
+
 /* Swiper class */
 
 /*=============== BUTTON ===============*/
