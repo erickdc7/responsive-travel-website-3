@@ -13,13 +13,13 @@
 /*=============== SWIPER TESTIMONIAL ===============*/
 
 
-/*=============== SHOW SCROLL UP ===============*/ 
+/*=============== SHOW SCROLL UP ===============*/
 
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
-/*=============== DARK LIGHT THEME ===============*/ 
+/*=============== DARK LIGHT THEME ===============*/
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
