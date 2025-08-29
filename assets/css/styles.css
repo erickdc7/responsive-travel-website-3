@@ -257,6 +257,11 @@ img {
   height: 100%;
 }
 
+.home__bg {
+  object-fit: cover;
+  object-position: center;
+}
+
 /* Swiper class */
 
 /*=============== BUTTON ===============*/
