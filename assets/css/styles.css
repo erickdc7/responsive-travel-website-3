@@ -206,6 +206,12 @@ img {
   row-gap: 2rem;
 }
 
+.nav__link {
+  position: relative;
+  font-weight: var(--font-semi-bold);
+  color: var(--title-color);
+}
+
 /* Show menu */
 
 /* Change background header */
