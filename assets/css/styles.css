@@ -290,6 +290,11 @@ img {
   margin-bottom: 2rem;
 }
 
+.home__swiper {
+  max-width: 320px;
+  border-radius: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== BUTTON ===============*/
