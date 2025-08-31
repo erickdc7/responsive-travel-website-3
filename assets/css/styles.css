@@ -317,6 +317,10 @@ img {
   transition: transform 0.4s;
 }
 
+.button:hover i {
+  transform: translateX(0.5rem);
+}
+
 /*=============== DESTINATION ===============*/
 
 /*=============== TESTIMONIAL ===============*/
