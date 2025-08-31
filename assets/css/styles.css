@@ -319,6 +319,10 @@ img {
   right: 4rem;
 }
 
+.home__swiper .swiper-button-next {
+  right: 1.25em;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
