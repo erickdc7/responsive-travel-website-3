@@ -248,6 +248,11 @@ img {
 .bg-header :is(.nav__logo, .nav__toggle, .nav__theme) {
   color: var(--title-color);
 }
+
+.bg-header .nav__logo img {
+  filter: invert(100%);
+}
+
 /* Active link */
 
 /*=============== HOME ===============*/
