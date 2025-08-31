@@ -296,6 +296,10 @@ img {
 }
 
 /* Swiper class */
+.home__swiper .swiper-button-prev::after,
+.home__swiper .swiper-button-next::after {
+  content: "";
+}
 
 /*=============== BUTTON ===============*/
 .button {
