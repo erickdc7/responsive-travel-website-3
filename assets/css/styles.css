@@ -314,6 +314,11 @@ img {
   transition: background-color 0.4s;
 }
 
+.home__swiper .swiper-button-prev {
+  left: initial;
+  right: 4rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
