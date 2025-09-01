@@ -399,6 +399,10 @@ img {
   font-family: var(--second-font);
 }
 
+.destination__title {
+  font-size: var(--h1-font-size);
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
