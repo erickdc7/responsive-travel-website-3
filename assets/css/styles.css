@@ -369,6 +369,12 @@ img {
   justify-content: center;
 }
 
+.destination__card {
+  position: relative;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
