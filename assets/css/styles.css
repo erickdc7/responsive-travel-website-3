@@ -364,6 +364,10 @@ img {
 }
 
 /*=============== DESTINATION ===============*/
+.destination__container {
+  grid-template-columns: 300px;
+  justify-content: center;
+}
 
 /*=============== TESTIMONIAL ===============*/
 
