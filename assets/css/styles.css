@@ -417,6 +417,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.destination__card:hover .destination__img {
+  transform: scale(1.2);
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
