@@ -379,6 +379,21 @@ img {
   transition: transform 0.4s;
 }
 
+.destination__data {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1.5rem;
+  background-color: var(--opacity-color-30);
+  backdrop-filter: blur(24px);
+  color: var(--white-color);
+  display: grid;
+  row-gap: 0.25rem;
+  border-radius: 1.5rem;
+  transition: background-color 0.4s;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
