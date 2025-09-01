@@ -375,6 +375,10 @@ img {
   overflow: hidden;
 }
 
+.destination__img {
+  transition: transform 0.4s;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
