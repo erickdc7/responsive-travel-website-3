@@ -394,6 +394,11 @@ img {
   transition: background-color 0.4s;
 }
 
+.destination__subtitle {
+  font-size: var(--h2-font-size);
+  font-family: var(--second-font);
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
