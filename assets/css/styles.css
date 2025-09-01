@@ -409,6 +409,10 @@ img {
   column-gap: 0.25rem;
 }
 
+.destination__country i {
+  font-size: 1rem;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
