@@ -403,6 +403,12 @@ img {
   font-size: var(--h1-font-size);
 }
 
+.destination__country {
+  display: flex;
+  align-items: center;
+  column-gap: 0.25rem;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
