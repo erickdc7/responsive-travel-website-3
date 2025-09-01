@@ -413,6 +413,10 @@ img {
   font-size: 1rem;
 }
 
+.destination__country span {
+  font-size: var(--small-font-size);
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 /* Swiper class */
