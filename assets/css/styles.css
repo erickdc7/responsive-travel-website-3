@@ -444,6 +444,12 @@ img {
   padding: 2.5rem 2rem 3rem 1.25rem;
 }
 
+.testimonial__title {
+  font-size: var(--h2-font-size);
+  color: var(--title-color);
+  margin-bottom: 0.75rem;
+}
+
 .testimonial__description {
   margin-bottom: 1.5rem;
 }
