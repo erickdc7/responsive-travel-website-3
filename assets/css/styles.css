@@ -427,6 +427,11 @@ img {
   gap: 0;
 }
 
+.testimonial__img {
+  width: 300px;
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
