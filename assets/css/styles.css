@@ -448,6 +448,12 @@ img {
   margin-bottom: 1.5rem;
 }
 
+.testimonial__profile {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
