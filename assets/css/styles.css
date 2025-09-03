@@ -444,6 +444,10 @@ img {
   padding: 2.5rem 2rem 3rem 1.25rem;
 }
 
+.testimonial__description {
+  margin-bottom: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
