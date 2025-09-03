@@ -454,6 +454,11 @@ img {
   column-gap: 0.5rem;
 }
 
+.testimonial__profile img {
+  width: 60px;
+  border-radius: 50%;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
