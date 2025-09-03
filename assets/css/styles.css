@@ -440,6 +440,10 @@ img {
   transition: background-color 0.4s;
 }
 
+.testimonial__card {
+  padding: 2.5rem 2rem 3rem 1.25rem;
+}
+
 /* Swiper class */
 
 /*=============== GALLERY ===============*/
