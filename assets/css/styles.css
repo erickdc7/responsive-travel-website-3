@@ -422,6 +422,10 @@ img {
 }
 
 /*=============== TESTIMONIAL ===============*/
+.testimonial__container {
+  justify-content: center;
+  gap: 0;
+}
 
 /* Swiper class */
 
