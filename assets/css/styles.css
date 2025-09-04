@@ -481,6 +481,13 @@ img {
   content: "";
 }
 
+.testimonial__swiper :is(.swiper-button-prev, .swiper-button-next) {
+  color: var(--title-color);
+  font-size: 1.5rem;
+  top: initial;
+  bottom: 1.25rem;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== JOIN ===============*/
