@@ -542,6 +542,10 @@ img {
   font-size: var(--h2-font-size);
 }
 
+.gallery__card:hover .gallery__img {
+  transform: scale(1.2);
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
