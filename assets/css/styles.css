@@ -533,6 +533,11 @@ img {
   color: var(--white-color);
 }
 
+.gallery__subtitle {
+  font-size: var(--h1-font-size);
+  font-family: var(--second-font);
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
