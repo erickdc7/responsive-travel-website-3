@@ -57,6 +57,7 @@ const swiperTestimonial = new Swiper('.testimonial__swiper', {
     loop: true,
     slidesPerView: 'auto',
     spaceBetween: 48,
+    grabCursor: true,
 
     navigation: {
         nextEl: '.swiper-button-next',
