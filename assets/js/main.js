@@ -31,6 +31,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 const swiperHome = new Swiper('.home__swiper', {
     loop: true,
     slidesPerView: 'auto',
+    grabCursor: true,
 
     navigation: {
         nextEl: '.swiper-button-next',
