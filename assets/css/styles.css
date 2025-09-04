@@ -538,6 +538,10 @@ img {
   font-family: var(--second-font);
 }
 
+.gallery__title {
+  font-size: var(--h2-font-size);
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
