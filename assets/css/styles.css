@@ -503,6 +503,12 @@ img {
   justify-content: center;
 }
 
+.gallery__card {
+  position: relative;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
