@@ -547,6 +547,10 @@ img {
 }
 
 /*=============== JOIN ===============*/
+.join__container {
+  row-gap: 3rem;
+  padding-bottom: 3rem;
+}
 
 /*=============== FOOTER ===============*/
 
