@@ -493,6 +493,10 @@ img {
   right: 3.5rem;
 }
 
+.testimonial__swiper .swiper-button-next {
+  right: 1.25rem;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== JOIN ===============*/
