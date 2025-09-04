@@ -488,6 +488,11 @@ img {
   bottom: 1.25rem;
 }
 
+.testimonial__swiper .swiper-button-prev {
+  left: initial;
+  right: 3.5rem;
+}
+
 /*=============== GALLERY ===============*/
 
 /*=============== JOIN ===============*/
