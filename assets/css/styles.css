@@ -526,6 +526,13 @@ img {
   transition: transform 0.4s;
 }
 
+.gallery__data {
+  position: absolute;
+  left: 1.25rem;
+  bottom: 1rem;
+  color: var(--white-color);
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
