@@ -498,6 +498,10 @@ img {
 }
 
 /*=============== GALLERY ===============*/
+.gallery__container {
+  grid-template-columns: 300px;
+  justify-content: center;
+}
 
 /*=============== JOIN ===============*/
 
