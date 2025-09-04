@@ -476,6 +476,10 @@ img {
 }
 
 /* Swiper class */
+.testimonial__swiper .swiper-button-prev::after,
+.testimonial__swiper .swiper-button-next::after {
+  content: "";
+}
 
 /*=============== GALLERY ===============*/
 
