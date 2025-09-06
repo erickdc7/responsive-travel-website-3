@@ -644,6 +644,14 @@ img {
   transform: translateY(-0.25rem);
 }
 
+.footer__copy {
+  display: block;
+  margin-top: 6rem;
+  color: var(--white-color);
+  text-align: center;
+  font-size: var(--small-font-size);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
