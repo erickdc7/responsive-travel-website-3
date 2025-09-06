@@ -599,6 +599,16 @@ img {
   row-gap: 3rem;
 }
 
+.footer__logo {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 0.25rem;
+  justify-self: flex-start;
+  color: var(--white-color);
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
