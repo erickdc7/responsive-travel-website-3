@@ -556,6 +556,10 @@ img {
   text-align: center;
 }
 
+.join__data .section__title {
+  margin-bottom: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
