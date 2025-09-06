@@ -583,6 +583,12 @@ img {
   cursor: pointer;
 }
 
+.join__img {
+  width: 300px;
+  border-radius: 1.5rem;
+  justify-self: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
