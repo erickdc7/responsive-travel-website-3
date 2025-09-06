@@ -609,6 +609,11 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.footer__content {
+  grid-template-columns: repeat(2, max-content);
+  gap: 3rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
