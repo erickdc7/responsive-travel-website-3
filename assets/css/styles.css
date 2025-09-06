@@ -614,6 +614,12 @@ img {
   gap: 3rem;
 }
 
+.footer__title {
+  color: var(--white-color);
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
