@@ -732,6 +732,10 @@ img {
   .gallery__container {
     grid-template-columns: 250px;
   }
+
+  .footer__content {
+    grid-template-columns: max-content;
+  }
 }
 
 /* For medium devices */
