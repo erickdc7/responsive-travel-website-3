@@ -126,6 +126,10 @@ img {
   box-shadow: 0 8px 16px hsla(0, 0%, 0%, 0.4);
 }
 
+.dark-theme .scrollup {
+  background-color: var(--container-color);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
