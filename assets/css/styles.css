@@ -118,6 +118,9 @@ img {
 	Color changes in some parts of 
 	the website, in dark theme
 ==========*/
+.dark-theme .bg-header .nav__logo img {
+  filter: initial;
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
