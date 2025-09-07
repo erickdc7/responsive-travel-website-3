@@ -254,6 +254,9 @@ img {
 }
 
 /* Active link */
+.active-link::after{
+
+}
 
 /*=============== HOME ===============*/
 .home {
