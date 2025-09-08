@@ -837,6 +837,12 @@ img {
     padding-block: 6rem 9rem;
     gap: 0;
   }
+
+  .home__data {
+    text-align: initial;
+    transform: translateX(3rem);
+    z-index: 5;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
