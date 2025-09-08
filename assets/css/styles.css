@@ -765,6 +765,10 @@ img {
   .join__img {
     width: 380px;
   }
+
+  .footer__content {
+    grid-template-columns: repeat(3, max-content);
+  }
 }
 
 /* For large devices */
