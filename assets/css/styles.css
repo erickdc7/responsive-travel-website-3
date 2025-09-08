@@ -866,6 +866,11 @@ img {
   .home .swiper-button-next {
     right: 2rem;
   }
+
+  .destination__container {
+    grid-template-columns: repeat(3, 340px);
+    gap: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
