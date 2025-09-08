@@ -795,6 +795,11 @@ img {
   .section__title {
     margin-bottom: 4rem;
   }
+
+  .nav {
+    height: calc(var(--header-height) + 2rem);
+    column-gap: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
