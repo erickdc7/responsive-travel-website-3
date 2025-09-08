@@ -822,6 +822,11 @@ img {
   .nav__link::after {
     background-color: var(--white-color);
   }
+
+  .bg-header .nav__link {
+    color: var(--title-color);
+  }
+
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
