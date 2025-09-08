@@ -843,6 +843,11 @@ img {
     transform: translateX(3rem);
     z-index: 5;
   }
+
+  .home__description {
+    padding-right: 6rem;
+    margin-bottom: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
