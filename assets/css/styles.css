@@ -853,6 +853,11 @@ img {
     max-width: 700px;
     transform: translateX(-3rem);
   }
+
+  .home .swiper-button-prev,
+  .home .swiper-button-next {
+    bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
