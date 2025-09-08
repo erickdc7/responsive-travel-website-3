@@ -830,6 +830,13 @@ img {
   .bg-header .nav__link::after {
     background-color: var(--title-color);
   }
+
+  .home__container {
+    grid-template-columns: 520px 700px;
+    align-items: center;
+    padding-block: 6rem 9rem;
+    gap: 0;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
