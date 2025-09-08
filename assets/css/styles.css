@@ -771,6 +771,13 @@ img {
   }
 }
 
+@media screen and (min-width: 768px) {
+  .destination__container,
+  .gallery__container {
+    grid-template-columns: repeat(2, 300px);
+  }
+}
+
 /* For large devices */
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
