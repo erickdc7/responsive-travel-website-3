@@ -862,6 +862,10 @@ img {
   .home .swiper-button-prev {
     right: 4.5rem;
   }
+
+  .home .swiper-button-next {
+    right: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
