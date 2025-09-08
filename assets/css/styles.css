@@ -848,6 +848,11 @@ img {
     padding-right: 6rem;
     margin-bottom: 4rem;
   }
+
+  .home__swiper {
+    max-width: 700px;
+    transform: translateX(-3rem);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
