@@ -744,6 +744,10 @@ img {
     grid-template-columns: 400px;
     justify-content: center;
   }
+
+  .home__swiper {
+    max-width: 400px;
+  }
 }
 
 /* For large devices */
