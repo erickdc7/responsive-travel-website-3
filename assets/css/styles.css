@@ -748,6 +748,10 @@ img {
   .home__swiper {
     max-width: 400px;
   }
+
+  .testimonial__img {
+    width: 400px;
+  }
 }
 
 /* For large devices */
