@@ -776,6 +776,10 @@ img {
   .gallery__container {
     grid-template-columns: repeat(2, 300px);
   }
+
+  .footer__content {
+    grid-template-columns: repeat(4, max-content);
+  }
 }
 
 /* For large devices */
