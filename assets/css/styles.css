@@ -958,6 +958,10 @@ img {
   .footer {
     padding-top: 4.5rem;
   }
+
+  .footer__container {
+    grid-template-columns: repeat(2, max-content);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
