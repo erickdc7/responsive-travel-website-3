@@ -913,6 +913,10 @@ img {
   .testimonial .swiper-button-prev {
     right: 5rem;
   }
+
+  .testimonial .swiper-button-next {
+    right: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
