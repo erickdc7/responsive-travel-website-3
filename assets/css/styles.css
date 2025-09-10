@@ -965,11 +965,15 @@ img {
   }
 
   .footer__logo {
-    justify-self: flex-start;
+    align-self: flex-start;
   }
 
   .footer__content {
     column-gap: 4.5rem;
+  }
+
+  .footer__title {
+    margin-bottom: 1.5rem;
   }
 }
 
