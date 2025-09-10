@@ -879,6 +879,10 @@ img {
   .destination__title {
     font-size: var(--h2-font-size);
   }
+
+  .testimonial__container {
+    grid-template-columns: 600px 400px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
