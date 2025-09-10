@@ -888,6 +888,10 @@ img {
     width: 600px;
     border-radius: 1.5rem 0 0 1.5rem;
   }
+
+  .testimonial__card {
+    padding: 6rem 6rem 3rem 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
