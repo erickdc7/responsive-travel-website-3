@@ -896,6 +896,10 @@ img {
   .testimonial__title {
     margin-bottom: 1rem;
   }
+
+  .testimonial__description {
+    margin-bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
