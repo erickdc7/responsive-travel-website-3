@@ -950,6 +950,10 @@ img {
   .join__description {
     margin-bottom: 3rem;
   }
+
+  .join__img {
+    width: 500px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
