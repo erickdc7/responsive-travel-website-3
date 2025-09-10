@@ -904,6 +904,11 @@ img {
   .testimonial__swiper {
     border-radius: 0 1.5rem 1.5rem 0;
   }
+
+  .testimonial .swiper-button-prev,
+  .testimonial .swiper-button-next {
+    bottom: 2.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
