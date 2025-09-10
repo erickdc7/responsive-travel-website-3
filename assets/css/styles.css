@@ -941,6 +941,11 @@ img {
   .join__data {
     text-align: initial;
   }
+
+  .join__data .section__title {
+    margin-bottom: 1.5rem;
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
