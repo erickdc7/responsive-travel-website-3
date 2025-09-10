@@ -917,6 +917,11 @@ img {
   .testimonial .swiper-button-next {
     right: 3rem;
   }
+
+  .gallery__container {
+    grid-template-columns: repeat(2, 500px);
+    gap: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
