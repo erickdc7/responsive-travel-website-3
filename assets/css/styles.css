@@ -883,6 +883,11 @@ img {
   .testimonial__container {
     grid-template-columns: 600px 400px;
   }
+
+  .testimonial__img {
+    width: 600px;
+    border-radius: 1.5rem 0 0 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
