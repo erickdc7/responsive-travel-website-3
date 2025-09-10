@@ -975,6 +975,10 @@ img {
   .footer__title {
     margin-bottom: 1.5rem;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
