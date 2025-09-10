@@ -892,6 +892,10 @@ img {
   .testimonial__card {
     padding: 6rem 6rem 3rem 2rem;
   }
+
+  .testimonial__title {
+    margin-bottom: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
