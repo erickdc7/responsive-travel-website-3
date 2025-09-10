@@ -922,6 +922,11 @@ img {
     grid-template-columns: repeat(2, 500px);
     gap: 2rem;
   }
+
+  .gallery__data {
+    left: 2rem;
+    bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
