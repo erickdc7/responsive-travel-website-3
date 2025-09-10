@@ -927,6 +927,10 @@ img {
     left: 2rem;
     bottom: 2rem;
   }
+
+  .gallery__title {
+    font-size: var(--h1-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
