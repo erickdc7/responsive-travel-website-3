@@ -875,6 +875,10 @@ img {
   .destination__data {
     padding-inline: 2rem;
   }
+
+  .destination__title {
+    font-size: var(--h2-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
