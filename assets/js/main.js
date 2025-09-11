@@ -141,4 +141,4 @@ const sr = ScrollReveal({
     reset: true
 })
 
-sr.reveal(`.home__container`)
+sr.reveal(`.home__container, .testimonial__container`)
